@@ -10,12 +10,13 @@ body {background:url('../images/common/subtle-pattern-6.jpg') repeat;}
 }
 #wrapper header {width:100%;min-height:68px;}
 #wrapper header .gnb-wrap {position:relative;width:100%;min-height:68px;border-bottom:1px solid #e5e5e5;overflow:hidden;}
+footer {padding:40px 35px 35px 35px;margin:0 auto 50px auto;width:1240px;background:#303030;}
 
 /* main */
 .latest-post {margin:20px 0 0 0;}
 .latest-post h2 {margin-bottom:12px;background:url('../images/pattern/title-pattern.png') repeat-x scroll 0 6px rgba(0,0,0,0);font-size:16px;}
 .latest-post h2 span {display:inline-block;padding:4px 8px 0 0;background:#fff;}
-.latest-post ul li {line-height:20px;}
+.latest-post ul li {padding:0 0 0 12px;line-height:20px;background:url('../images/icon/ico_dot_01.png') no-repeat 0 50%;}
 
 /* header */
 #wrapper header .gnb-wrap h1 {float:left;margin:16px 0 10px;}
